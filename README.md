@@ -3,6 +3,11 @@
 A minimalist, Japanese-themed take on the classic **Tic-Tac-Toe** game — built with **vanilla HTML, CSS, and JavaScript**.
 
 ---
+## 📸 Demo
+![Sanmoku-Narabe-JS Screenshot](sanmoku-narabe-js-screenshot.png)
+*index.html showing game in browser*
+
+---
 
 ## ✨ Features
 
